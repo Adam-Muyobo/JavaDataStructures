@@ -90,7 +90,7 @@ JavaDataStructures/
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/JavaDataStructures.git
+   git clone https://github.com/Adam-Muyobo/JavaDataStructures.git
    ```
 2. Open IntelliJ IDEA.
 3. Select **File > Open**, and navigate to the cloned project directory.
